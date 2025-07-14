@@ -15,7 +15,7 @@ I'm a **Cloud and Data Engineer** with 3+ years of industry experience specializ
 ## 💼 Currently Open to Opportunities
 
 🎯 I’m actively seeking **full-time roles** in **Cloud Engineering**, **Data Engineering**, or **DevOps Engineering**.  
-If you're hiring or know of opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-link-here) or email me at **sushmithagangadari996@gmail.com**.
+If you're hiring or know of opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sushmitha-g-98904835b/) or email me at **sushmithagangadari996@gmail.com**.
 
 ---
 
