@@ -12,6 +12,13 @@ I'm a **Cloud and Data Engineer** with 3+ years of industry experience specializ
 
 ---
 
+## 💼 Currently Open to Opportunities
+
+🎯 I’m actively seeking **full-time roles** in **Cloud Engineering**, **Data Engineering**, or **DevOps Engineering**.  
+If you're hiring or know of opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/your-link-here) or email me at **sushmithagangadari996@gmail.com**.
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages & Tools:**  
@@ -35,7 +42,7 @@ I'm a **Cloud and Data Engineer** with 3+ years of industry experience specializ
 
 ---
 
-## 💼 Work Experience Highlights
+## 🧠 Work Experience Highlights
 
 ### 🔹 AWS Developer @ Zenoitech  
 *Aug 2023 – Sept 2024, Hyderabad, India*  
@@ -76,8 +83,8 @@ Coming soon! Stay tuned for open-source projects demonstrating:
 
 ## 📫 Let’s Connect!
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sushmitha-g-98904835b/) or drop a message if you'd like to collaborate on cloud/data projects.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sushmitha-g-98904835b/) or drop a message if you'd like to collaborate on cloud/data projects — or if you know of a job opportunity I’d be a great fit for!
 
 ---
 
-> *“Code, optimize, automate – repeat.”*  
+> *“Code, optimize, automate – repeat.”*
