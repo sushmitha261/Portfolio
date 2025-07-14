@@ -1,6 +1,6 @@
 # 👩‍💻 Sushmitha G | Cloud & Data Engineer
 
-🌐 [LinkedIn](https://www.linkedin.com/in/your-link-here)  
+🌐 [LinkedIn](https://www.linkedin.com/in/sushmitha-g-98904835b/)  
 📧 sushmithagangadari996@gmail.com  
 📍 Denton, TX | +1 469-850-2374  
 
@@ -76,7 +76,7 @@ Coming soon! Stay tuned for open-source projects demonstrating:
 
 ## 📫 Let’s Connect!
 
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in/your-link-here) or drop a message if you'd like to collaborate on cloud/data projects.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sushmitha-g-98904835b/) or drop a message if you'd like to collaborate on cloud/data projects.
 
 ---
 
